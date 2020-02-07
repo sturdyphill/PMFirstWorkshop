@@ -1,2 +1,2 @@
-# PMFirstWorkshop
-First Workshop
+# myfirstworkshop
+First workshop content creation
